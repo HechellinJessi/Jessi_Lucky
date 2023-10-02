@@ -68,6 +68,8 @@
   background-color: #d9b214;
   padding: 10px;
   border-radius: 5px;
+ color: #030202;
+
 }
 
 .button-container {
@@ -89,12 +91,12 @@
 }
 
 .custom-button:hover {
-  background-color: #86327f;
+  background-color: #f0fa31d6;
 }
 
 
 .navbar {
-  background-color: #270a25; 
+  background-color: #221726; 
   color: #ece007;
   padding: 10px 0; 
   text-align: center;
